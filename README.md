@@ -60,7 +60,7 @@ Fullstack JavaScript Developer (in progress) focused on building real-world, sca
 
 ## 📫 Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: Hello@llocoin.com
 * GitHub: https://github.com/mehdi-sarlak
 
 ---
